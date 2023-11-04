@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    background-color: #273549;
+    font: bold;
+    
+}
+
+#h1-id{
+   color: #10B981;
+   margin: 22px;
+   
+}
+
+spam{
+   color: white;
+}
+
+p{
+    color: white;
+    margin: 22px;
+    font: bold;
+}
+
+#Generate-btn{
+   background-color: #10B981;
+   color: white;
+   border-radius: 4px;
+   border: none;
+   padding: 10px;
+   margin-left: 25px
+}
+
+#underline-id {
+   border-bottom: 2px solid #374151;
+   width: 290px;
+   margin-left: 25px;
+}
+
+#randomPass1{
+    background-color: #374151;
+    width: 150px;
+    height: 30px;
+    margin-left: 25px;
+    border-radius: 7px;
+    color: #10B981;
+}
+
+#randomPass2{
+    background-color: #374151;
+    width: 150px;
+    height: 30px;
+    margin-left: 25px;
+    border-radius: 7px;
+    color: #10B981;
+    
+    
+}
+
+div{
+    display: flex; 
+    
+}
